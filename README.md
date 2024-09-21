@@ -1,5 +1,5 @@
 # HTML
 ## HTML Tags
 
-| ElementName | Element Key | Classes/Attributes| Description|
+| Element Name | Element Key | Classes Attributes| Description |
 | --- | ---- | --- | ----|
